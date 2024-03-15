@@ -1,0 +1,41 @@
+<root><debateinfo>
+        <title>PROCLAMATION</title>
+        <page.no>16</page.no>
+        <type>proclamations</type>
+      </debateinfo>
+      <speech>
+          <talk.start>
+            <talker>
+              <page.no>26</page.no>
+              <time.stamp />
+              <name.id>10000</name.id>
+              <electorate />
+              <party />
+              <role />
+              <in.gov>0</in.gov>
+              <first.speech>0</first.speech>
+              <name role="metadata">SPEAKER, Mr</name>
+              <name role="display">Mr SPEAKER</name>
+            </talker>
+            <para>- I would again ask the honorable member to resume his seat. I shall have to ask the Prime Minister to protect the Chair if the honorable member persists in continuing his remarks. </para>
+          </talk.start>
+          <continue>
+            <talk.start>
+              <talker>
+                <page.no>26</page.no>
+                <time.stamp />
+                <name.id>KQP</name.id>
+                <electorate />
+                <party />
+                <role />
+                <in.gov>0</in.gov>
+                <first.speech>0</first.speech>
+                <name role="metadata">MCDONALD, Charles</name>
+                <name role="display">Mr McDONALD</name>
+              </talker>
+              <para>- I do not know how he is going to protect the Chair if I like to continue my protest. </para>
+            </talk.start>
+          </continue>
+          <para>Question resolved in the affirmative. </para>
+        </speech>
+      </root>

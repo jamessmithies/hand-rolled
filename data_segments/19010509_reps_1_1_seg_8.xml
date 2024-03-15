@@ -1,0 +1,23 @@
+<root><debateinfo>
+        <title>PROCLAMATION</title>
+        <page.no>16</page.no>
+        <type>proclamations</type>
+      </debateinfo>
+      <speech>
+          <talk.start>
+            <talker>
+              <page.no>23</page.no>
+              <time.stamp />
+              <name.id>F4R</name.id>
+              <electorate>Bland</electorate>
+              <party />
+              <role />
+              <in.gov>0</in.gov>
+              <first.speech>0</first.speech>
+              <name role="metadata">WATSON, John Christian</name>
+              <name role="display">Mr WATSON</name>
+            </talker>
+            <para>- I have been deputed by the members of the labour party to offer you, <inline font-weight="bold">Mr. Speaker,</inline> their most sincere congratulations upon your accession to your present high office. After the eulogy that has been passed upon you I do not know that it is necessary to say more than this - that although only a few members of the party to which I belong have had an opportunity of knowingyou as a Member of Parliament, your reputation has spread throughout the various States of Australia to such an extent, as to inspire us with the full hope and belief that you will do more than honour to the position you now occupy. I can assure you that so far as the labour party is concerned you will have every assistance in the observance of those rules which are so necessary to the maintenance of the liberties of the members of this House. </para>
+          </talk.start>
+        </speech>
+        </root>

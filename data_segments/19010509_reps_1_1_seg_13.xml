@@ -1,0 +1,26 @@
+<root><debateinfo>
+        <title>PROCLAMATION</title>
+        <page.no>16</page.no>
+        <type>proclamations</type>
+      </debateinfo>
+      <speech>
+        <talk.start>
+          <talker>
+            <page.no>24</page.no>
+            <time.stamp />
+            <name.id>F4S</name.id>
+            <electorate>PARRAMATTA, NEW SOUTH WALES</electorate>
+            <party>FT; ANTI-SOC from 1906; LP from 1910; NAT from 1917</party>
+            <role />
+            <in.gov>0</in.gov>
+            <first.speech>0</first.speech>
+            <name role="metadata">COOK, Joseph</name>
+            <name role="display">Mr JOSEPH COOK</name>
+          </talker>
+          <para>- I take advantage of this motion to ask the Prime Minister a question. It has reference to the standing orders. I understand that the honorable gentleman has been engaged for some time past in framing a new set of standing orders, and I should . like to ask if he purposes distributing them, and, if so, when.- The question is one of some importance. I understand that the standing orders will differ very materially from those of any particular State; and, therefore, it seems to me that it would be well if honorable members had them to peruse before we are called upon to deal with them. </para>
+        </talk.start>
+        <para>
+          <inline font-weight="bold">Mr. HIGGINS</inline>(North Melbourne).Before the Prime Minister answers, I wish to ask him if he can inform the House how soon the members of the Federal Parliament are to have the privileges of the library and the other rooms of this House <inline font-style="italic">1</inline></para>
+        <para>Honorable Members. - Hear, hear. </para>
+      </speech>
+      </root>

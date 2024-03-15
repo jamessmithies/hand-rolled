@@ -1,0 +1,42 @@
+<root><debateinfo>
+        <title>PROCLAMATION</title>
+        <page.no>16</page.no>
+        <type>proclamations</type>
+      </debateinfo>
+      <speech>
+          <talk.start>
+            <talker>
+              <page.no>23</page.no>
+              <time.stamp />
+              <name.id>10000</name.id>
+              <electorate />
+              <party />
+              <role />
+              <in.gov>0</in.gov>
+              <first.speech>0</first.speech>
+              <name role="metadata">SPEAKER, Mr</name>
+              <name role="display">Mr SPEAKER</name>
+            </talker>
+            <para>- I thank the Prime Minister, and the other two honorable members who have spoken for their congratulations ; and I can only reiteratemy determination as far as I can to rise to the heights to which all too kindly honorable members have desired that I should attain. </para>
+          </talk.start>
+          <para>
+            <inline font-weight="bold">Mr. BARTON</inline>(Hunter - Minister for External Affairs). - I am commissioned to say that  His Excellency  the GovernorGeneral will receive this House for the purpose of presenting their  Speaker  to him at four o'clock this afternoon, at the Executive Council Chamber in the Treasury Buildings. I ask <inline font-weight="bold">Mr. Speaker</inline> to leave the chair now until a quarter to four, in order that honorable members may attend with him at four o'clock. I will also ask honorable members to be so kind as to afterwards form a quorum to permit of my moving the adjournment of the House until to-morrow, when  His Excellency  the Governor-General will attend to declare the cause of our being summoned. </para>
+          <continue>
+            <talk.start>
+              <talker>
+                <page.no>23</page.no>
+                <time.stamp />
+                <name.id>10000</name.id>
+                <electorate />
+                <party />
+                <role />
+                <in.gov>0</in.gov>
+                <first.speech>0</first.speech>
+                <name role="metadata">SPEAKER, Mr</name>
+                <name role="display">Mr SPEAKER</name>
+              </talker>
+              <para>- I shall leave the chair until ten minutes to four, and I will ask honorable members to be present in sufficient numbers to accompany me to wait upon the Governor-General. </para>
+            </talk.start>
+          </continue>
+        </speech>
+      </root>

@@ -1,0 +1,23 @@
+<root><debateinfo>
+        <title>GOVERNOR-GENERAL'S SPEECH</title>
+        <page.no>32</page.no>
+        <type>miscellaneous</type>
+      </debateinfo>
+      <speech>
+          <talk.start>
+            <talker>
+              <page.no>33</page.no>
+              <time.stamp />
+              <name.id>009LR</name.id>
+              <electorate>Hunter</electorate>
+              <party>Protectionist</party>
+              <role>Minister for External Affairs</role>
+              <in.gov>1</in.gov>
+              <first.speech>0</first.speech>
+              <name role="metadata">BARTON, Edmund</name>
+              <name role="display">Mr BARTON</name>
+            </talker>
+            <para>. - In answer to the honorable member, I have to say that a staff has been appointed of skilled shorthand writers, who, I have no doubt, will do their work with the utmost efficiency; and it is proposed, for the present at any rate, to issue the <inline font-style="italic">Hansard</inline> reports to honorable members weekly. </para>
+          </talk.start>
+        </speech>
+        </root>

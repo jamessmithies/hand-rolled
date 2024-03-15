@@ -1,0 +1,23 @@
+<root><debateinfo>
+        <title>GOVERNOR-GENERAL'S SPEECH</title>
+        <page.no>32</page.no>
+        <type>miscellaneous</type>
+      </debateinfo>
+      <speech>
+          <talk.start>
+            <talker>
+              <page.no>33</page.no>
+              <time.stamp />
+              <name.id>F4N</name.id>
+              <electorate>Wide Bay</electorate>
+              <party />
+              <role />
+              <in.gov>0</in.gov>
+              <first.speech>0</first.speech>
+              <name role="metadata">FISHER, Andrew</name>
+              <name role="display">Mr FISHER</name>
+            </talker>
+            <para>- I should like to ask the Premier, or whoever is in charge of the matter, what arrangements have been made in regard to the official publication of <inline font-style="italic">Hansard,</inline> and what will be the method of distribution to honorable members. </para>
+          </talk.start>
+        </speech>
+        </root>

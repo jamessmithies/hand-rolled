@@ -1,0 +1,23 @@
+<root><debateinfo>
+        <title>GOVERNOR-GENERAL'S SPEECH</title>
+        <page.no>32</page.no>
+        <type>miscellaneous</type>
+      </debateinfo>
+      <speech>
+          <talk.start>
+            <talker>
+              <page.no>33</page.no>
+              <time.stamp />
+              <name.id>20000</name.id>
+              <electorate />
+              <party />
+              <role />
+              <in.gov>0</in.gov>
+              <first.speech>0</first.speech>
+              <name role="metadata" />
+              <name role="display">Mr COOK</name>
+            </talker>
+            <para>- I should like to ask the Minister representing the PostmasterGeneral whether he will as early as may be place on the table of the House for the information of honorable members all the papers he may have relating to the present position of the Pacific Cable question 1 </para>
+          </talk.start>
+        </speech>
+        </root>

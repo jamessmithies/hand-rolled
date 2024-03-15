@@ -1,0 +1,23 @@
+<root><debateinfo>
+        <title>PROCLAMATION</title>
+        <page.no>16</page.no>
+        <type>proclamations</type>
+      </debateinfo>
+      <speech>
+        <talk.start>
+          <talker>
+            <page.no>24</page.no>
+            <time.stamp />
+            <name.id>009LR</name.id>
+            <electorate>Hunter</electorate>
+            <party>Protectionist</party>
+            <role>Minister for External Affairs</role>
+            <in.gov>1</in.gov>
+            <first.speech>0</first.speech>
+            <name role="metadata">BARTON, Edmund</name>
+            <name role="display">Mr BARTON</name>
+          </talker>
+          <para>. - I take it that the House will concur with me in saying that the telegram received from the Secretary of State for the Colonies will receive proper attention. I shall ask  His Excellency  the Governor-General to send a suitable answer, which, I hope, will have the approval of the House. I shall also ask <inline font-weight="bold">Mr. Speaker</inline> to answer the telegram sent from the Presbyterian Assembly. </para>
+        </talk.start>
+      </speech>
+    </root>

@@ -1,0 +1,41 @@
+<root><debateinfo>
+        <title>PROCLAMATION</title>
+        <page.no>16</page.no>
+        <type>proclamations</type>
+      </debateinfo>
+      <speech>
+        <talk.start>
+          <talker>
+            <page.no>26</page.no>
+            <time.stamp />
+            <name.id>KQP</name.id>
+            <electorate>Kennedy, Queensland</electorate>
+            <party />
+            <role />
+            <in.gov>0</in.gov>
+            <first.speech>0</first.speech>
+            <name role="metadata">MCDONALD, Charles</name>
+            <name role="display">Mr McDONALD</name>
+          </talker>
+          <para>- <inline font-weight="bold">Mr. Speaker</inline> - - </para>
+        </talk.start>
+        <para>An Honorable Member. - The Premier has spoken in reply. </para>
+        <continue>
+          <talk.start>
+            <talker>
+              <page.no>26</page.no>
+              <time.stamp />
+              <name.id>KQP</name.id>
+              <electorate />
+              <party />
+              <role />
+              <in.gov>0</in.gov>
+              <first.speech>0</first.speech>
+              <name role="metadata">MCDONALD, Charles</name>
+              <name role="display">Mr McDONALD</name>
+            </talker>
+            <para>- I cannot help that. </para>
+          </talk.start>
+        </continue>
+      </speech>
+      </root>

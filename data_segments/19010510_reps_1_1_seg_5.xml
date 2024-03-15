@@ -1,0 +1,23 @@
+<root><debateinfo>
+        <title>GOVERNOR-GENERAL'S SPEECH</title>
+        <page.no>32</page.no>
+        <type>miscellaneous</type>
+      </debateinfo>
+      <speech>
+        <talk.start>
+          <talker>
+            <page.no>33</page.no>
+            <time.stamp />
+            <name.id>10000</name.id>
+            <electorate />
+            <party />
+            <role />
+            <in.gov>0</in.gov>
+            <first.speech>0</first.speech>
+            <name role="metadata">SPEAKER, Mr</name>
+            <name role="display">Mr SPEAKER</name>
+          </talker>
+          <para>- May I take this opportunity of saying that I propose to take the chair each day on the stroke of the clock at the time appointed. </para>
+        </talk.start>
+      </speech>
+    </root>

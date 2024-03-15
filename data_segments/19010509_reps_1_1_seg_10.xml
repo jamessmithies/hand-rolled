@@ -1,0 +1,26 @@
+<root><debateinfo>
+        <title>PROCLAMATION</title>
+        <page.no>16</page.no>
+        <type>proclamations</type>
+      </debateinfo>
+      <speech>
+        <talk.start>
+          <talker>
+            <page.no>24</page.no>
+            <time.stamp />
+            <name.id>10000</name.id>
+            <electorate />
+            <party />
+            <role />
+            <in.gov>0</in.gov>
+            <first.speech>0</first.speech>
+            <name role="metadata">SPEAKER, Mr</name>
+            <name role="display">Mr SPEAKER</name>
+          </talker>
+          <para>- His Excellency the GovernorGeneral has handed me the following cablegram which he has received from the Secretary of State for the Colonies : - </para>
+        </talk.start>
+        <para>His Majesty's Government welcomes the new Parliament that to-day takes its place among the great legislative bodies of the British Empire. They feel confident it will be a faithful interpreter of the aspirations of a free and loyal people, and they trust that its deliberations will promote the happiness, prosperity, and unity of the whole continent of Australia. </para>
+        <para class="block">I have also just now received from the Moderator of the Presbyterian Assembly the following telegram : - </para>
+        <para>Presbyterian General Assembly, now in session, have united in special prayers for, and now offer congratulations to, first Parliament of Australian Commonwealth. </para>
+      </speech>
+      </root>

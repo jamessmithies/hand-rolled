@@ -1,0 +1,77 @@
+<root><debateinfo>
+        <title>GOVERNOR-GENERAL'S SPEECH</title>
+        <page.no>32</page.no>
+        <type>miscellaneous</type>
+      </debateinfo>
+      <speech>
+          <talk.start>
+            <talker>
+              <page.no>33</page.no>
+              <time.stamp />
+              <name.id>10000</name.id>
+              <electorate />
+              <party />
+              <role />
+              <in.gov>0</in.gov>
+              <first.speech>0</first.speech>
+              <name role="metadata">SPEAKER, Mr</name>
+              <name role="display">Mr SPEAKER</name>
+            </talker>
+            <para>- I take it the Prime Minister rose because he thought no other honorable member wished to speak. It was certainly with that idea I called on him ; but if any honorable member has further questions to put, I am certain the Prime Minister will temporarily withdraw his motion. </para>
+          </talk.start>
+          <continue>
+            <talk.start>
+              <talker>
+                <page.no>34</page.no>
+                <time.stamp />
+                <name.id>009LR</name.id>
+                <electorate />
+                <party />
+                <role />
+                <in.gov>0</in.gov>
+                <first.speech>0</first.speech>
+                <name role="metadata">BARTON, Edmund</name>
+                <name role="display">Mr BARTON</name>
+              </talker>
+              <para>- If it be necessary to put myself in order, Iwithdraw my motion for the present. </para>
+            </talk.start>
+          </continue>
+          <para>Mr.WATSON (Bland). - Following up the question of the member for Wide Bay, I would like to ask the Premier whether the Cabinet has yet considered the propriety of issuing copies of <inline font-style="italic">Hansard</inline> at only a nominal charge to the public. There seems greater reason for something being done in this direction in connexion with the Commonwealth Parliament. From the fact that we are so far from our constituencies, it is necessary that a very low charge, if any, should be made for copies of <inline font-style="italic">Hansard.</inline></para>
+          <continue>
+            <talk.start>
+              <talker>
+                <page.no>34</page.no>
+                <time.stamp />
+                <name.id>009LR</name.id>
+                <electorate />
+                <party />
+                <role />
+                <in.gov>0</in.gov>
+                <first.speech>0</first.speech>
+                <name role="metadata">BARTON, Edmund</name>
+                <name role="display">Mr BARTON</name>
+              </talker>
+              <para>- It has been found in the case of the States that there is not much demand for the literature of <inline font-style="italic">Hansard</inline> on the part of the public, but I will see that honorable members are supplied gratis with a reasonable number of copies. I hope the charge made for the interesting publication will not be excessive. </para>
+            </talk.start>
+          </continue>
+          <interjection>
+            <talk.start>
+              <talker>
+                <page.no>34</page.no>
+                <time.stamp />
+                <name.id>10000</name.id>
+                <electorate />
+                <party />
+                <role />
+                <in.gov>0</in.gov>
+                <first.speech>0</first.speech>
+                <name role="metadata">SPEAKER, Mr</name>
+                <name role="display">Mr Speaker</name>
+              </talker>
+              <para>-  I have to announce to the House that I have had placed in my hands a petition against the return of an honorable member. I have not had time yet to read it, but I shall do so, and report to the House at its next sitting. </para>
+            </talk.start>
+          </interjection>
+          <para>Question resolved in the affirmative. </para>
+          <para>House adjourned at  11.40  a. m. </para>
+        </speech>
+      </root>

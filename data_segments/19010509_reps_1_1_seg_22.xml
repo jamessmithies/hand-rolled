@@ -1,0 +1,42 @@
+<root><debateinfo>
+        <title>PROCLAMATION</title>
+        <page.no>16</page.no>
+        <type>proclamations</type>
+      </debateinfo>
+      <speech>
+          <talk.start>
+            <talker>
+              <page.no>27</page.no>
+              <time.stamp />
+              <name.id>009LR</name.id>
+              <electorate>Hunter</electorate>
+              <party>Protectionist</party>
+              <role>Minister for External Affairs</role>
+              <in.gov>1</in.gov>
+              <first.speech>0</first.speech>
+              <name role="metadata">BARTON, Edmund</name>
+              <name role="display">Mr BARTON</name>
+            </talker>
+            <para>, in reply. - Even a gentleman of a conservative turn of mind is entitled to have ordinary allowances mode to him. I am not aware that my mind is conservative. It has been miscalled so, in spite of my statements to the contrary, by some who do not know me, and who do not understand me. </para>
+          </talk.start>
+          <para>An Honorable Member.  -  And who do not know the meaning of theword. </para>
+          <continue>
+            <talk.start>
+              <talker>
+                <page.no>27</page.no>
+                <time.stamp />
+                <name.id>009LR</name.id>
+                <electorate />
+                <party />
+                <role />
+                <in.gov>0</in.gov>
+                <first.speech>0</first.speech>
+                <name role="metadata">BARTON, Edmund</name>
+                <name role="display">Mr BARTON</name>
+              </talker>
+              <para>- And who do not know the meaning of the word. There never was, and there is not now, any intention of thrusting the proposed standing orders upon honorable members without consideration. I never said that that would be done, though I have been misrepresented us saying so. It is not, however, customary at a sitting like this, when the election of a Speaker, his presentation to the GovernorGeneral, and the consequent adjournment, is the business of the House, to takesteps for the active prosecution of parliamentary work. It may be so in Queensland, but it is not so in most Parliaments. I shall lay the standing orders upon the table of the House at what I take to be the proper time  - - to-morrow's sitting. I shall then move to have them printed, but honorable members will not be asked to assent to even their temporary adoption until they have had them for several days, and have had every opportunity to read them. </para>
+            </talk.start>
+          </continue>
+          <para>Question resolved in the affirmative. </para>
+        </speech>
+      </root>

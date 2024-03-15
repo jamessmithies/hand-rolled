@@ -1,0 +1,42 @@
+<root><debateinfo>
+        <title>PROCLAMATION</title>
+        <page.no>16</page.no>
+        <type>proclamations</type>
+      </debateinfo>
+      <speech>
+        <talk.start>
+          <talker>
+            <page.no>24</page.no>
+            <time.stamp />
+            <name.id>KHC</name.id>
+            <electorate>NORTHERN MELBOURNE, VICTORIA</electorate>
+            <party />
+            <role />
+            <in.gov>0</in.gov>
+            <first.speech>0</first.speech>
+            <name role="metadata">HIGGINS, Henry</name>
+            <name role="display">Mr HIGGINS</name>
+          </talker>
+          <para>- I may say I ask this question because, yesterday, I wanted to bring a book away with me for reading, and that is a privilege that always in my experience has been allowed to members of the State Parliament. I was informed, courteously, of course, by the librarian that he had received no instructions to extend this privilege to any member of the Federal Parliament. I am quite sure there are no members of this House, or of this Parliament, who wish in any way to infringe upon the privileges of members of the Victorian Parliament. We wish that they should have every privilege in. this building which it is possible to afford, but we are at present put in the awkward position of not knowing where we are. We wish to know the limits of our privileges, in order that we may not be found encroaching on the rights of other gentlemen. </para>
+        </talk.start>
+        <para>
+          <inline font-weight="bold">Mr. BARTON</inline>(Hunter- Minister for External Affairs), in reply. - As to the inquiry of the honorable member for Parramatta <inline font-weight="bold">(Mr. Cook),</inline> I may say this, that while I have, in conjunction with the  officers at the head of the tables, drafted a provisional set of standing orders, there is no idea of attempting to impose standing orders on this House without its own consent. As soon as possible a Standing Orders Committee will be elected. With regard to the draft standing orders, they will be laid on the table to-morrow, and distributed at once. The intention of the Government is that, as there must be some understood rules of Parliament to which honorable members can conveniently refer in the meantime, before the Standing Orders Committee can be elected and sit, we shall ask honorable members to allow <inline font-weight="bold">Mr. Speaker</inline> to accept these provisional standing orders as a guide to procedure until the Standing Orders Committee have dealt with the subject. </para>
+        <interjection>
+          <talk.start>
+            <talker>
+              <page.no>25</page.no>
+              <time.stamp />
+              <name.id>20000</name.id>
+              <electorate />
+              <party />
+              <role />
+              <in.gov>0</in.gov>
+              <first.speech>0</first.speech>
+              <name role="metadata" />
+              <name role="display">Mr Cook</name>
+            </talker>
+            <para>- Without debate ? </para>
+          </talk.start>
+        </interjection>
+      </speech>
+      </root>

@@ -1,0 +1,26 @@
+<root><debateinfo>
+        <title>GOVERNOR-GENERAL'S SPEECH</title>
+        <page.no>32</page.no>
+        <type>miscellaneous</type>
+      </debateinfo>
+      <speech>
+        <talk.start>
+          <talker>
+            <page.no>32</page.no>
+            <time.stamp />
+            <name.id>009MD</name.id>
+            <electorate>Ballarat</electorate>
+            <party>Protectionist</party>
+            <role>AttorneyGeneral</role>
+            <in.gov>1</in.gov>
+            <first.speech>0</first.speech>
+            <name role="metadata">DEAKIN, Alfred</name>
+            <name role="display">Mr DEAKIN</name>
+          </talker>
+          <para>. - In order to assert the right of this House to legislate at this stage, I beg to move - </para>
+        </talk.start>
+        <para>That leave be given to bring in a Bill to provide for the interpretation of Acts of Parliament, and the shortening of their language. </para>
+        <para class="block">Question resolved in the affirmative. </para>
+        <para class="block">Bill presented (by <inline font-weight="bold">Mr. Deakin)</inline> and read the first time. </para>
+      </speech>
+    </root>

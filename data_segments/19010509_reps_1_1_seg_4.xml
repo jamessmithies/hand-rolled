@@ -1,0 +1,23 @@
+<root><debateinfo>
+        <title>PROCLAMATION</title>
+        <page.no>16</page.no>
+        <type>proclamations</type>
+      </debateinfo>
+      <speech>
+          <talk.start>
+            <talker>
+              <page.no>22</page.no>
+              <time.stamp />
+              <name.id>JUJ</name.id>
+              <electorate>Tasmania</electorate>
+              <party />
+              <role />
+              <in.gov>0</in.gov>
+              <first.speech>0</first.speech>
+              <name role="metadata">CAMERON, Donald Norman</name>
+              <name role="display">Mr CAMERON</name>
+            </talker>
+            <para>- I desire to express my deep regret that <inline font-weight="bold">Mr. Holder</inline> is the only candidate for the Speakership. I always understood that he was an ardent freetrader, and, if that be so, it would have been far better in the interests of freetrade had lie remained on the floor of the House. Another  gentleman who was a candidate has withdrawn, and therefore this proceeding is of course merely formal. We know that it must be so. I deeply regret it ; and had that other honorable member not withdrawn his candidature, I should have voted in his favour. </para>
+          </talk.start>
+        </speech>
+        </root>

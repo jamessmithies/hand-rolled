@@ -1,0 +1,57 @@
+<root><debateinfo>
+        <title>GOVERNOR-GENERAL'S SPEECH</title>
+        <page.no>32</page.no>
+        <type>miscellaneous</type>
+      </debateinfo>
+      <speech>
+          <talk.start>
+            <talker>
+              <page.no>33</page.no>
+              <time.stamp />
+              <name.id>K5D</name.id>
+              <electorate>Tasmania</electorate>
+              <party />
+              <role />
+              <in.gov>0</in.gov>
+              <first.speech>0</first.speech>
+              <name role="metadata">O'MALLEY, King</name>
+              <name role="display">Mr KING O'MALLEY</name>
+            </talker>
+            <para>- I would like to ask the Prime Minister if there is to be any arrangement made - </para>
+          </talk.start>
+          <interjection>
+            <talk.start>
+              <talker>
+                <page.no>33</page.no>
+                <time.stamp />
+                <name.id>F4S</name.id>
+                <electorate>PARRAMATTA, NEW SOUTH WALES</electorate>
+                <party>FT; ANTI-SOC from 1906; LP from 1910; NAT from 1917</party>
+                <role />
+                <in.gov>0</in.gov>
+                <first.speech>0</first.speech>
+                <name role="metadata">COOK, Joseph</name>
+                <name role="display">Mr JOSEPH COOK</name>
+              </talker>
+              <para>- I rise to order, <inline font-weight="bold">Mr. Speaker.</inline> Are we to have any further questions or statements after the Premier has replied to the debate on the motion for adjournment ? It is just as well we should know at this stage. </para>
+            </talk.start>
+          </interjection>
+          <interjection>
+            <talk.start>
+              <talker>
+                <page.no>33</page.no>
+                <time.stamp />
+                <name.id>009LR</name.id>
+                <electorate />
+                <party />
+                <role />
+                <in.gov>0</in.gov>
+                <first.speech>0</first.speech>
+                <name role="metadata">BARTON, Edmund</name>
+                <name role="display">Mr Barton</name>
+              </talker>
+              <para>- I replied to the question only as a matter of courtesy. I did not intend to close the debate. </para>
+            </talk.start>
+          </interjection>
+        </speech>
+        </root>

@@ -1,0 +1,24 @@
+<root><debateinfo>
+        <title>PROCLAMATION</title>
+        <page.no>16</page.no>
+        <type>proclamations</type>
+      </debateinfo>
+      <speech>
+        <talk.start>
+          <talker>
+            <page.no>24</page.no>
+            <time.stamp />
+            <name.id>009LR</name.id>
+            <electorate>Hunter</electorate>
+            <party>Protectionist</party>
+            <role>Minister for External Affairs</role>
+            <in.gov>1</in.gov>
+            <first.speech>0</first.speech>
+            <name role="metadata">BARTON, Edmund</name>
+            <name role="display">Mr BARTON</name>
+          </talker>
+          <para>. - The Governor-General will attend to-morrow morning at eleven, o'clock to deliver the causes of summoning this Parliament ; and I have therefore to move - </para>
+        </talk.start>
+        <para>That the House at its rising do adjourn until to-morrow at ten minutes before eleven o'clock. </para>
+      </speech>
+      </root>

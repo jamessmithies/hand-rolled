@@ -1,0 +1,97 @@
+<root><debateinfo>
+        <title>GOVERNOR-GENERAL'S SPEECH</title>
+        <page.no>32</page.no>
+        <type>miscellaneous</type>
+      </debateinfo>
+      <speech>
+        <talk.start>
+          <talker>
+            <page.no>32</page.no>
+            <time.stamp />
+            <name.id>009LR</name.id>
+            <electorate>Hunter</electorate>
+            <party>Protectionist</party>
+            <role>Minister for External Affairs</role>
+            <in.gov>1</in.gov>
+            <first.speech>0</first.speech>
+            <name role="metadata">BARTON, Edmund</name>
+            <name role="display">Mr BARTON</name>
+          </talker>
+          <para>. - It is customary before 'proceeding with otherbusiness to appoint a select committee to prepare an Address in Reply to the speech delivered by  His Excellency.  That I trust will be taken as a formality on this occasion, and the consideration of the Address I then propose to make on order of the day for the 21st of this month. </para>
+        </talk.start>
+        <interjection>
+          <talk.start>
+            <talker>
+              <page.no>32</page.no>
+              <time.stamp />
+              <name.id>F4N</name.id>
+              <electorate />
+              <party />
+              <role />
+              <in.gov>0</in.gov>
+              <first.speech>0</first.speech>
+              <name role="metadata">FISHER, Andrew</name>
+              <name role="display">Mr Fisher</name>
+            </talker>
+            <para>-  What is the reason for the delay in regard to the circulation of the speech? We have not received copies yet. </para>
+          </talk.start>
+        </interjection>
+        <continue>
+          <talk.start>
+            <talker>
+              <page.no>32</page.no>
+              <time.stamp />
+              <name.id>009LR</name.id>
+              <electorate />
+              <party />
+              <role />
+              <in.gov>0</in.gov>
+              <first.speech>0</first.speech>
+              <name role="metadata">BARTON, Edmund</name>
+              <name role="display">Mr BARTON</name>
+            </talker>
+            <para>- Copies will be handed round as soon as possible. The speech cannot be considered to-day. There will be ten days in which to consider it </para>
+          </talk.start>
+        </continue>
+        <interjection>
+          <talk.start>
+            <talker>
+              <page.no>32</page.no>
+              <time.stamp />
+              <name.id>F4N</name.id>
+              <electorate />
+              <party />
+              <role />
+              <in.gov>0</in.gov>
+              <first.speech>0</first.speech>
+              <name role="metadata">FISHER, Andrew</name>
+              <name role="display">Mr Fisher</name>
+            </talker>
+            <para>-  We can please ourselves about that. </para>
+          </talk.start>
+        </interjection>
+        <continue>
+          <talk.start>
+            <talker>
+              <page.no>32</page.no>
+              <time.stamp />
+              <name.id>009LR</name.id>
+              <electorate />
+              <party />
+              <role />
+              <in.gov>0</in.gov>
+              <first.speech>0</first.speech>
+              <name role="metadata">BARTON, Edmund</name>
+              <name role="display">Mr BARTON</name>
+            </talker>
+            <para>- If this House adjourns, the honorable member cannot please himself, I take it. I beg to move - </para>
+          </talk.start>
+        </continue>
+        <para>That a select committee, consisting of <inline font-weight="bold">Mr. W.</inline> H. Groom, <inline font-weight="bold">Mr. T.</inline> T,Ewing, <inline font-weight="bold">Sir J.</inline> Langdon Bonython, and <inline font-weight="bold">Mr. R.</inline> A. Crouch, be appointed to prepare an Address in Reply to the speech delivered by  His Excellency  the Governor-General on opening the first session of the first Parliament of the Commonwealth of Australia. </para>
+        <para>The committeeretired, and having reentered the chamber, presented the proposed address, which was read by the  Clerk,  as follows :  - </para>
+        <para class="block">May it please Your Excellency : </para>
+        <para>We, the House of Representatives, in the Parliament of the Commonwealth of Australia, in Parliament assembled, beg to express our loyalty to our Most Gracious Sovereign, and to thank Your  Excellency  for the gracious speech which you have been pleased to address to Parliament. </para>
+        <para>Motion (by <inline font-weight="bold">Mr. Barton)</inline> agreed to- </para>
+        <para>That the consideration of the Address in Reply to the Governor-General's speech as read by the clerk stand an order of the day for Tuesday, 21st May. </para>
+      </speech>
+    </root>

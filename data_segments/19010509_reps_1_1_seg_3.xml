@@ -1,0 +1,40 @@
+<root><debateinfo>
+        <title>PROCLAMATION</title>
+        <page.no>16</page.no>
+        <type>proclamations</type>
+      </debateinfo>
+      <speech>
+          <talk.start>
+            <talker>
+              <page.no>21</page.no>
+              <time.stamp />
+              <name.id>KTT</name.id>
+              <electorate>PARKES, NEW SOUTH WALES</electorate>
+              <party>FT; ANTI-SOC from 1906; LP from 1910; NAT from 1917</party>
+              <role />
+              <in.gov>0</in.gov>
+              <first.speech>0</first.speech>
+              <name role="metadata">SMITH, Arthur</name>
+              <name role="display">Mr BRUCE SMITH</name>
+            </talker>
+            <para>-! had intended to give a silent vote upon this motion, in the expectation that some honorable member who had not been mentioned as a candidate for this high office would have drawn attention to a circumstance connected with this election, which I think every wellwisher of our political institutions must have felt grieved at. Every honorable member must have become aware that, quite contrary to expectation, circular letters have been sent round to members of both Houses, inviting them, in very polite terms, to give their support to the candidates, or rather to some of the candidates, for the two very exalted positions of  Speaker  of the House of Representatives and  President  of the Senate. I am not speaking now from personal motives, although my name was mentioned as that of a possible candidate for the Speakership; but I desire, at this initial stage in our federal history, to record my individual protest against a system which seems to me wholly unbecoming to the new order of things upon which we have entered. A great many honorable members, and a great many people who ave not members of this assembly, hoped that in dealing with Commonwealth affairs we were going to enter into a higher and rarer political atmosphere; but I am sorry to find that some of those who most fervently expressed that hope have joined in the encouragement of a state of things, which, as one of the first steps in our federal history, has very much disappointed "me. I cannot think, for a moment, that such eminent parliamentarians as <inline font-weight="bold">Mr. Speaker</inline> Brand, <inline font-weight="bold">Mr. Speaker</inline> Peel, or <inline font-weight="bold">Mr. Speaker</inline> Gully, would have lent themselves to a practice of the kind to which I allude, and from what I know of the history of the House of Commons - and I arn sure that a fuller knowledge of the inner history of that great institution would satisfy every honorable member on the subjects - I am persuaded that any attempt at a practice of this sort would have been fatal to an aspirant to the Speakership there. A circular letter has been freely handed round among members which, having seen it myself, I am bound to say comes as nearly as possible, to being what, among commercial people, would be regarded as a business circular, setting forth in the plainest terms the merits of the candidate, and making an appeal for support to his candidature. Inasmuch as the positions of  Speaker  of the House of Representatives and  President  of the Senate of this great Commonwealth are next to that of the Governor-General, the two highest offices in the land, it is just as undesirable that this mode of procedure should be adopted here, as it would be undesirable that it should be adopted in regard to the choosing of the Chief Justice of the Commonwealth. Without desiring in any way to express the opinion of honorable members, as one who has taken a very active interest in the struggle for the consummation of this great Australian union, as one who has looked forward with deep, and I may say profound, pleasure, and a sense of honour, to occupying a seat in one or other of the Houses, and as one who expected to see realized the higher and rarer atmosphere of which so much has been said in the various States, I am bound to say that I am very much disappointed that any member should succeed by virtue of such a practice as that to which I refer. I have nothing to say of an invidious character. I speak in the most abstract way. .But I do <inline font-style="italic">hope</inline> that when this House and when the Senate have settled down to work out the  history  of the Commonwealth, they will, in the most emphatic manner, in the future, deprecate this practice as strongly and as unhesitatingly as they may feel sure it would have been deprecated in the old country. I satisfy myself with recording my individual protest against the practice, expressing the wish that we may never hear of it being indulged in during the future history of this country. </para>
+          </talk.start>
+          <interjection>
+            <talk.start>
+              <talker>
+                <page.no>22</page.no>
+                <time.stamp />
+                <name.id>JX7</name.id>
+                <electorate />
+                <party />
+                <role />
+                <in.gov>0</in.gov>
+                <first.speech>0</first.speech>
+                <name role="metadata">CHAPMAN, Austin</name>
+                <name role="display">Mr Chapman</name>
+              </talker>
+              <para>- Far better than private touting at any rate. </para>
+            </talk.start>
+          </interjection>
+        </speech>
+        </root>
